@@ -2526,3 +2526,98 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.30-23.59.07:321][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2025.07.30-23.59.39:017][674]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2025.07.31-00.00.42:860][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.07.31-00.03.25:896][757]LogShaderCompilers: Display: ================================================
+[2025.07.31-00.03.25:896][757]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.31-00.03.25:896][757]LogShaderCompilers: Display: Total job queries 2891, among them cache hits 727 (25.15%), DDC hits 1777 (61.47%), Duplicates 200 (6.92%)
+[2025.07.31-00.03.25:896][757]LogShaderCompilers: Display: Tracking 1964 distinct input hashes that result in 1193 distinct outputs (60.74%)
+[2025.07.31-00.03.25:896][757]LogShaderCompilers: Display: RAM used: 11,66 MiB of 819,20 MiB budget. Usage: 1.42%
+[2025.07.31-00.03.25:896][757]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Shaders Compiled: 187
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Jobs assigned 187, completed 187 (100%)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Average time worker was idle: 158.18 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Time job spent in pending queue: average 7.35 s, longest 37.29 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Job execution time: average 9.53 s, max 21.50 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Job life time (pending + execution): average 16.88 s, max 39.38
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Shader code size: total 1,554 MiB, numShaders 198, average 8,035 KiB, min 2,105 KiB, max 16,766 KiB
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 97.99 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.99 jobs/batch
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Average processing rate: 1.91 jobs/sec
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Total thread time: 334,82 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Total thread preprocess time: 60,335 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Percentage time preprocessing: 18.02%
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Effective parallelization: 3.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.854249
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   16 times, average 3.55 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 2.49 sec, max 2.99 sec, min 2.01 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 2.33 sec, max 3.14 sec, min 1.93 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 2.04 sec, max 2.11 sec, min 1.97 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   39 times, average 1.85 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.54% of total time (compiled   39 times, average 1.85 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.97% of total time (compiled   16 times, average 3.55 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.13% of total time (compiled   26 times, average 1.56 sec, max 5.79 sec, min 0.94 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 6.11% of total time (compiled   14 times, average 1.46 sec, max 1.73 sec, min 1.07 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display:                                                 FLumenCardPS - 4.96% of total time (compiled   13 times, average 1.28 sec, max 1.56 sec, min 0.75 sec)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: === Material stats ===
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Materials Translated:    176
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Material Translation Only: 0.15 s (56%)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2025.07.31-00.03.25:897][757]LogShaderCompilers: Display: ================================================
+[2025.07.31-00.03.33:978][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.07.31-00.03.35:218][853]LogSlate: Window 'Guardar contenido' being destroyed
+[2025.07.31-00.03.35:238][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-00.03.37:158][853]LogSlate: Window 'Guardar nivel como' being destroyed
+[2025.07.31-00.03.37:178][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Maps/Templates/Untitled" FILE="../../../Engine/Content/Maps/Templates/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.31-00.03.37:255][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.07.31-00.03.37:284][853]LogSavePackage: Moving output files for package: /Engine/Maps/Templates/Untitled
+[2025.07.31-00.03.37:284][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Untitled01859CAA4C31CACBEB600491E862CF01.tmp' to '../../../Engine/Content/Maps/Templates/Untitled.umap'
+[2025.07.31-00.03.37:309][853]LogFileHelpers: Saving map 'Untitled' took 0.136
+[2025.07.31-00.03.37:309][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/2] ([1] browsable assets)...
+[2025.07.31-00.03.37:315][853]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/2.2]
+[2025.07.31-00.03.37:315][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/2]
+[2025.07.31-00.03.37:315][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Textures/2" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/2.uasset" SILENT=true
+[2025.07.31-00.03.37:332][853]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/2
+[2025.07.31-00.03.37:332][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/26B65B86E44BBF6913CEF99B59F0F6DDB.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/2.uasset'
+[2025.07.31-00.03.37:335][853]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/2_Mat] ([1] browsable assets)...
+[2025.07.31-00.03.37:465][853]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Textures/2_Mat.2_Mat]
+[2025.07.31-00.03.37:465][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/2_Mat]
+[2025.07.31-00.03.37:483][853]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/2_Mat
+[2025.07.31-00.03.37:483][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/2_Mat1F15BBF04154160456172DBC69AFA205.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/2_Mat.uasset'
+[2025.07.31-00.03.37:486][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K] ([1] browsable assets)...
+[2025.07.31-00.03.37:486][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K]
+[2025.07.31-00.03.37:748][853]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K
+[2025.07.31-00.03.37:748][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear05141E2B14C75D88A2E20628C4D8B56E4.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K.uasset'
+[2025.07.31-00.03.37:752][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K] ([1] browsable assets)...
+[2025.07.31-00.03.37:752][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K]
+[2025.07.31-00.03.37:769][853]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K
+[2025.07.31-00.03.37:769][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear004937D4E4D12F1E1108C3980EFE65756.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K.uasset'
+[2025.07.31-00.03.37:773][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat] ([1] browsable assets)...
+[2025.07.31-00.03.37:773][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat]
+[2025.07.31-00.03.37:789][853]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat
+[2025.07.31-00.03.37:789][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear0CCAD01B74BAE331C384B9194F999CB1C.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat.uasset'
+[2025.07.31-00.03.37:791][853]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1] ([1] browsable assets)...
+[2025.07.31-00.03.37:792][853]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1]
+[2025.07.31-00.03.37:805][853]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1
+[2025.07.31-00.03.37:805][853]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear0B38CE93C4921955014A9CB924432A7E8.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1.uasset'
+[2025.07.31-00.03.37:819][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.58 sec (total: 3.93 sec)
+[2025.07.31-00.03.37:882][853]LogContentValidation: Display: Starting to validate 7 assets
+[2025.07.31-00.03.37:882][853]LogContentValidation: Enabled validators:
+[2025.07.31-00.03.37:882][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-00.03.37:882][853]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-00.03.37:882][853]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-00.03.37:882][853]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-00.03.37:882][853]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-00.03.37:882][853]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-00.03.37:882][853]AssetCheck: /Engine/Maps/Templates/Untitled Validando recurso
+[2025.07.31-00.03.37:882][853]AssetCheck: /Game/LevelPrototyping/Textures/2 Validando recurso
+[2025.07.31-00.03.37:882][853]AssetCheck: /Game/LevelPrototyping/Textures/2_Mat Validando recurso
+[2025.07.31-00.03.37:882][853]AssetCheck: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K Validando recurso
+[2025.07.31-00.03.37:882][853]AssetCheck: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K Validando recurso
+[2025.07.31-00.03.37:882][853]AssetCheck: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat Validando recurso
+[2025.07.31-00.03.37:883][853]AssetCheck: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1 Validando recurso
+[2025.07.31-00.03.37:905][853]LogAutomationController: Ignoring very large delta of 3.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.31-00.03.37:907][853]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
