@@ -1150,3 +1150,1379 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.30-22.32.26:992][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 315.653351
 [2025.07.30-22.32.27:992][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.30-22.32.27:992][884]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 316.321167, Update Interval: 334.684906
+[2025.07.30-22.38.06:098][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 654.755371
+[2025.07.30-22.38.07:099][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-22.38.07:099][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 655.422913, Update Interval: 337.958923
+[2025.07.30-22.43.52:002][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1000.655396
+[2025.07.30-22.43.53:002][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-22.43.53:002][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1001.322144, Update Interval: 352.355103
+[2025.07.30-22.45.25:330][228]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.30-22.45.25:773][229]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.07.30-22.45.27:087][236]Cmd: DELETE
+[2025.07.30-22.45.27:087][236]Cmd: ACTOR DELETE
+[2025.07.30-22.45.27:125][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.27:158][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.07.30-22.45.27:160][236]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2025.07.30-22.45.29:099][245]Cmd: DELETE
+[2025.07.30-22.45.29:100][245]Cmd: ACTOR DELETE
+[2025.07.30-22.45.29:102][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.29:127][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.30-22.45.29:129][245]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.07.30-22.45.31:592][258]Cmd: DELETE
+[2025.07.30-22.45.31:592][258]Cmd: ACTOR DELETE
+[2025.07.30-22.45.31:595][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.31:619][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-22.45.31:621][258]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.07.30-22.45.34:292][268]Cmd: DELETE
+[2025.07.30-22.45.34:292][268]Cmd: ACTOR DELETE
+[2025.07.30-22.45.34:294][268]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.34:318][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.07.30-22.45.34:321][268]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.07.30-22.45.36:139][277]Cmd: DELETE
+[2025.07.30-22.45.36:139][277]Cmd: ACTOR DELETE
+[2025.07.30-22.45.36:142][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.36:170][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.30-22.45.36:172][277]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.07.30-22.45.38:201][282]Cmd: DELETE
+[2025.07.30-22.45.38:201][282]Cmd: ACTOR DELETE
+[2025.07.30-22.45.38:203][282]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.38:228][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.07.30-22.45.38:230][282]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.07.30-22.45.40:117][289]Cmd: DELETE
+[2025.07.30-22.45.40:117][289]Cmd: ACTOR DELETE
+[2025.07.30-22.45.40:119][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.40:142][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.30-22.45.40:144][289]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.07.30-22.45.42:567][300]Cmd: DELETE
+[2025.07.30-22.45.42:567][300]Cmd: ACTOR DELETE
+[2025.07.30-22.45.42:570][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.42:598][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.30-22.45.42:600][300]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.45.49:287][336]Cmd: DELETE
+[2025.07.30-22.45.49:287][336]Cmd: ACTOR DELETE
+[2025.07.30-22.45.49:291][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.49:316][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-22.45.49:318][336]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.07.30-22.45.54:361][358]Cmd: DELETE
+[2025.07.30-22.45.54:361][358]Cmd: ACTOR DELETE
+[2025.07.30-22.45.54:363][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.45.54:385][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.07.30-22.45.54:387][358]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.07.30-22.46.01:967][395]Cmd: DELETE
+[2025.07.30-22.46.01:967][395]Cmd: ACTOR DELETE
+[2025.07.30-22.46.01:969][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.01:991][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-22.46.01:993][395]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.07.30-22.46.03:850][405]Cmd: DELETE
+[2025.07.30-22.46.03:850][405]Cmd: ACTOR DELETE
+[2025.07.30-22.46.03:853][405]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.03:880][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.30-22.46.03:882][405]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.46.08:516][429]Cmd: DELETE
+[2025.07.30-22.46.08:516][429]Cmd: ACTOR DELETE
+[2025.07.30-22.46.08:519][429]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.08:546][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.30-22.46.08:550][429]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-22.46.16:337][469]Cmd: DELETE
+[2025.07.30-22.46.16:337][469]Cmd: ACTOR DELETE
+[2025.07.30-22.46.16:340][469]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.16:365][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.30-22.46.16:367][469]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.07.30-22.46.30:544][546]Cmd: DELETE
+[2025.07.30-22.46.30:544][546]Cmd: ACTOR DELETE
+[2025.07.30-22.46.30:547][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.30:570][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.30-22.46.30:572][546]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.07.30-22.46.33:455][559]Cmd: DELETE
+[2025.07.30-22.46.33:455][559]Cmd: ACTOR DELETE
+[2025.07.30-22.46.33:458][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.33:482][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.07.30-22.46.33:485][559]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.07.30-22.46.37:319][572]Cmd: DELETE
+[2025.07.30-22.46.37:319][572]Cmd: ACTOR DELETE
+[2025.07.30-22.46.37:321][572]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.37:344][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.07.30-22.46.37:346][572]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.07.30-22.46.40:075][582]Cmd: DELETE
+[2025.07.30-22.46.40:075][582]Cmd: ACTOR DELETE
+[2025.07.30-22.46.40:077][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.40:099][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.30-22.46.40:102][582]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.07.30-22.46.44:425][602]Cmd: DELETE
+[2025.07.30-22.46.44:425][602]Cmd: ACTOR DELETE
+[2025.07.30-22.46.44:428][602]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.44:454][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.30-22.46.44:457][602]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.46.48:005][617]Cmd: DELETE
+[2025.07.30-22.46.48:005][617]Cmd: ACTOR DELETE
+[2025.07.30-22.46.48:007][617]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.48:031][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.30-22.46.48:033][617]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.07.30-22.46.51:305][631]Cmd: DELETE
+[2025.07.30-22.46.51:305][631]Cmd: ACTOR DELETE
+[2025.07.30-22.46.51:307][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.46.51:329][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.30-22.46.51:331][631]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.07.30-22.47.12:713][759]Cmd: DELETE
+[2025.07.30-22.47.12:713][759]Cmd: ACTOR DELETE
+[2025.07.30-22.47.12:715][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.47.12:739][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.30-22.47.12:742][759]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.07.30-22.47.16:015][775]Cmd: DELETE
+[2025.07.30-22.47.16:015][775]Cmd: ACTOR DELETE
+[2025.07.30-22.47.16:017][775]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.47.16:041][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.30-22.47.16:044][775]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.07.30-22.47.42:441][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.30-22.47.42:444][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.025
+[2025.07.30-22.48.59:721][310]Cmd: DELETE
+[2025.07.30-22.48.59:721][310]Cmd: ACTOR DELETE
+[2025.07.30-22.48.59:725][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.48.59:753][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.07.30-22.48.59:754][310]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.49.02:807][324]Cmd: DELETE
+[2025.07.30-22.49.02:807][324]Cmd: ACTOR DELETE
+[2025.07.30-22.49.02:809][324]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.02:835][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.30-22.49.02:837][324]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.07.30-22.49.06:057][336]Cmd: DELETE
+[2025.07.30-22.49.06:057][336]Cmd: ACTOR DELETE
+[2025.07.30-22.49.06:059][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.06:089][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.30-22.49.06:092][336]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-22.49.32:384][ 13]Cmd: DELETE
+[2025.07.30-22.49.32:384][ 13]Cmd: ACTOR DELETE
+[2025.07.30-22.49.32:386][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.32:417][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.30-22.49.32:420][ 13]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.07.30-22.49.34:039][121]Cmd: DELETE
+[2025.07.30-22.49.34:039][121]Cmd: ACTOR DELETE
+[2025.07.30-22.49.34:041][121]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.34:072][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.30-22.49.34:074][121]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.07.30-22.49.35:434][210]Cmd: DELETE
+[2025.07.30-22.49.35:434][210]Cmd: ACTOR DELETE
+[2025.07.30-22.49.35:437][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.35:472][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.07.30-22.49.35:475][210]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.07.30-22.49.38:149][395]Cmd: DELETE
+[2025.07.30-22.49.38:149][395]Cmd: ACTOR DELETE
+[2025.07.30-22.49.38:152][395]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.38:183][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.07.30-22.49.38:187][395]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.07.30-22.49.39:247][462]Cmd: DELETE
+[2025.07.30-22.49.39:247][462]Cmd: ACTOR DELETE
+[2025.07.30-22.49.39:247][462]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.07.30-22.49.39:249][462]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.39:280][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.30-22.49.39:283][462]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.07.30-22.49.40:266][523]Cmd: DELETE
+[2025.07.30-22.49.40:266][523]Cmd: ACTOR DELETE
+[2025.07.30-22.49.40:269][523]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.40:296][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.07.30-22.49.40:300][523]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.07.30-22.49.41:491][600]Cmd: DELETE
+[2025.07.30-22.49.41:491][600]Cmd: ACTOR DELETE
+[2025.07.30-22.49.41:494][600]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.41:523][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.30-22.49.41:526][600]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-22.49.42:808][681]Cmd: DELETE
+[2025.07.30-22.49.42:809][681]Cmd: ACTOR DELETE
+[2025.07.30-22.49.42:811][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.42:840][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.30-22.49.42:843][681]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.07.30-22.49.43:860][745]Cmd: DELETE
+[2025.07.30-22.49.43:860][745]Cmd: ACTOR DELETE
+[2025.07.30-22.49.43:863][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.43:894][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.30-22.49.43:897][745]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.07.30-22.49.49:094][ 98]Cmd: DELETE
+[2025.07.30-22.49.49:094][ 98]Cmd: ACTOR DELETE
+[2025.07.30-22.49.49:098][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.49:127][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.30-22.49.49:131][ 98]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.07.30-22.49.50:596][195]Cmd: DELETE
+[2025.07.30-22.49.50:596][195]Cmd: ACTOR DELETE
+[2025.07.30-22.49.50:598][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.50:628][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.07.30-22.49.50:631][195]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.07.30-22.49.54:894][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1363.540283
+[2025.07.30-22.49.55:069][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-22.49.55:069][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1363.701904, Update Interval: 350.271301
+[2025.07.30-22.49.55:421][535]Cmd: DELETE
+[2025.07.30-22.49.55:421][535]Cmd: ACTOR DELETE
+[2025.07.30-22.49.55:423][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.55:451][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.07.30-22.49.55:454][535]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-22.49.57:249][658]Cmd: DELETE
+[2025.07.30-22.49.57:249][658]Cmd: ACTOR DELETE
+[2025.07.30-22.49.57:252][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.57:279][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.30-22.49.57:282][658]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.49.58:937][770]Cmd: DELETE
+[2025.07.30-22.49.58:937][770]Cmd: ACTOR DELETE
+[2025.07.30-22.49.58:940][770]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.49.58:967][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.30-22.49.58:971][770]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-22.50.00:268][856]Cmd: DELETE
+[2025.07.30-22.50.00:268][856]Cmd: ACTOR DELETE
+[2025.07.30-22.50.00:270][856]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.00:299][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.30-22.50.00:301][856]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-22.50.01:618][944]Cmd: DELETE
+[2025.07.30-22.50.01:618][944]Cmd: ACTOR DELETE
+[2025.07.30-22.50.01:621][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.01:648][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.30-22.50.01:650][944]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.50.02:990][ 34]Cmd: DELETE
+[2025.07.30-22.50.02:990][ 34]Cmd: ACTOR DELETE
+[2025.07.30-22.50.02:993][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.03:020][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-22.50.03:022][ 34]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.50.04:078][104]Cmd: DELETE
+[2025.07.30-22.50.04:078][104]Cmd: ACTOR DELETE
+[2025.07.30-22.50.04:082][104]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.04:111][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.07.30-22.50.04:113][104]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.07.30-22.50.05:425][192]Cmd: DELETE
+[2025.07.30-22.50.05:425][192]Cmd: ACTOR DELETE
+[2025.07.30-22.50.05:429][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.05:454][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.30-22.50.05:456][192]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.07.30-22.50.07:834][357]Cmd: DELETE
+[2025.07.30-22.50.07:834][357]Cmd: ACTOR DELETE
+[2025.07.30-22.50.07:836][357]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.07:864][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-22.50.07:866][357]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.07.30-22.50.09:570][477]Cmd: DELETE
+[2025.07.30-22.50.09:570][477]Cmd: ACTOR DELETE
+[2025.07.30-22.50.09:572][477]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.09:600][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.30-22.50.09:601][477]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.07.30-22.50.12:537][694]Cmd: DELETE
+[2025.07.30-22.50.12:537][694]Cmd: ACTOR DELETE
+[2025.07.30-22.50.12:540][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.12:570][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.30-22.50.12:573][694]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.07.30-22.50.14:098][802]Cmd: DELETE
+[2025.07.30-22.50.14:098][802]Cmd: ACTOR DELETE
+[2025.07.30-22.50.14:100][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.30-22.50.14:128][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.30-22.50.14:131][802]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.07.30-22.50.19:862][245]LogSlate: Took 0.001503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.30-22.50.34:568][350]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.07.30-22.50.34:583][350]LogContentBrowser: Creating deferred item: NewWorld
+[2025.07.30-22.50.34:629][351]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.07.30-22.50.45:379][164]LogContentBrowser: Attempting asset rename: NewWorld -> Principal
+[2025.07.30-22.50.45:382][164]LogChaosDD: Creating Chaos Debug Draw Scene for world Principal
+[2025.07.30-22.50.45:393][164]LogContentBrowser: End creating deferred item NewWorld
+[2025.07.30-22.50.53:481][714]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.30-22.50.53:512][714]LogActorFactory: Actor Factory attempting to spawn World /Game/Principal.Principal
+[2025.07.30-22.50.53:512][714]LogActorFactory: Actor Factory attempting to spawn World /Game/Principal.Principal
+[2025.07.30-22.50.53:512][714]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-22.50.53:518][714]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/Principal which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2025.07.30-22.50.53:518][714]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/Principal which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2025.07.30-22.50.53:527][715]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.30-22.50.54:419][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.30-22.50.54:421][792]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.07.30-22.50.54:430][792]LogActorFactory: Actor Factory attempting to spawn World /Game/Principal.Principal
+[2025.07.30-22.50.54:430][792]LogActorFactory: Actor Factory attempting to spawn World /Game/Principal.Principal
+[2025.07.30-22.50.54:435][792]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/Principal which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2025.07.30-22.50.54:436][792]LogLevelInstance: Warning: Attempting to set Level Instance to package /Game/Principal which does not exist. Ensure the level was saved before attepting to set the level instance world asset.
+[2025.07.30-22.50.56:649][963]Cmd: DELETE
+[2025.07.30-22.50.56:649][963]Cmd: ACTOR DELETE
+[2025.07.30-22.50.56:652][963]LogEditorActor: Deleted Actor: LevelInstance
+[2025.07.30-22.50.56:683][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.07.30-22.50.56:686][963]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.07.30-22.51.02:973][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.07.30-22.51.11:449][446]LogSlate: Window 'Guardar contenido' being destroyed
+[2025.07.30-22.51.11:476][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-22.51.11:607][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.30-22.51.11:633][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.07.30-22.51.11:663][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.30-22.51.11:687][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Principal" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.30-22.51.11:714][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.30-22.51.11:740][446]LogSavePackage: Moving output files for package: /Game/Principal
+[2025.07.30-22.51.11:740][446]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Principal245875CB432B45BA9A8EC5B8C9AD8628.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap'
+[2025.07.30-22.51.11:757][446]LogFileHelpers: Saving map 'Principal' took 0.073
+[2025.07.30-22.51.11:823][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.300 ms
+[2025.07.30-22.51.11:825][446]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Principal.Principal
+[2025.07.30-22.51.11:826][446]Cmd: MAP LOAD FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.30-22.51.11:870][446]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-22.51.11:872][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-22.51.11:873][446]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.07.30-22.51.11:925][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-22.51.11:937][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.30-22.51.11:940][446]LogWorld: UWorld::CleanupWorld for Principal, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-22.51.11:941][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-22.51.11:965][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.30-22.51.11:990][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.30-22.51.11:991][446]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-22.51.11:992][446]LogAudio: Display: Audio Device (ID: 1) registered with world 'Principal'.
+[2025.07.30-22.51.11:992][446]LogChaosDD: Creating Chaos Debug Draw Scene for world Principal
+[2025.07.30-22.51.12:052][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.30-22.51.12:076][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.30-22.51.12:096][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.30-22.51.12:096][446]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 0,066 ms en completarse.
+[2025.07.30-22.51.12:185][446]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-22.51.12:185][446]LogContentValidation: Enabled validators:
+[2025.07.30-22.51.12:185][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-22.51.12:185][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-22.51.12:185][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-22.51.12:185][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-22.51.12:185][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-22.51.12:185][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-22.51.12:186][446]AssetCheck: /Game/Principal Validando recurso
+[2025.07.30-22.51.12:246][446]LogAutomationController: Ignoring very large delta of 9.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-22.51.12:249][446]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.30-22.52.00:772][201]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.07.30-22.52.00:772][201]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2025.07.30-22.52.00:779][201]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Principal.Principal:PersistentLevel.DirectionalLight_0
+[2025.07.30-22.52.00:779][201]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Principal.Principal:PersistentLevel.DirectionalLight_0
+[2025.07.30-22.53.17:435][439]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1D8E9492-4C27-3B8B-688F-568980B4A9B8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.30-22.53.17:435][439]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.30-22.53.17:435][439]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 0 (Connection 9 seems to be dead)
+[2025.07.30-22.53.17:435][439]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 1 (Closing connection)
+[2025.07.30-22.53.17:435][439]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.30-22.53.17:435][439]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.30-22.53.17:435][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 4 (Found bundle for host: 0x1dd0f080bd0 [serially])
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 5 (Re-using existing connection with host api.epicgames.dev)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 6 (We are completely uploaded and fine)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 8 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 9 (state.rewindbeforesend = TRUE)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 10 (Closing connection)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 11 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 12 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1D8E9492-4C27-3B8B-688F-568980B4A9B8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 13 (Could not resolve host: api.epicgames.dev)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DD0DC5A800: libcurl info message cache 14 (Closing connection)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DC7A8E1200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F8BF83EA429612A99074BE806BF016C5, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DC7A8E1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DC7A8E1200: libcurl info message cache 0 (Found bundle for host: 0x1dd0f0802d0 [serially])
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DC7A8E1200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: 000001DC7A8E1200: libcurl info message cache 2 (Closing connection)
+[2025.07.30-22.53.17:436][440]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F8BF83EA429612A99074BE806BF016C5
+[2025.07.30-22.53.17:443][440]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1D8E9492-4C27-3B8B-688F-568980B4A9B8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.30-22.53.18:443][551]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F8BF83EA429612A99074BE806BF016C5
+[2025.07.30-22.53.18:798][585]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F8BF83EA429612A99074BE806BF016C5
+[2025.07.30-22.54.09:788][426]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.07.30-22.54.09:789][426]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2025.07.30-22.54.09:792][426]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Principal.Principal:PersistentLevel.SkyAtmosphere_0
+[2025.07.30-22.54.09:792][426]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Principal.Principal:PersistentLevel.SkyAtmosphere_0
+[2025.07.30-22.55.40:957][539]Cmd: TRANSACTION UNDO
+[2025.07.30-22.55.40:957][539]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.07.30-22.55.42:553][616]Cmd: TRANSACTION UNDO
+[2025.07.30-22.55.42:553][616]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-22.55.43:364][634]Cmd: TRANSACTION UNDO
+[2025.07.30-22.55.43:364][634]LogEditorTransaction: Undo Rotar iluminación de ambiente 0
+[2025.07.30-22.56.03:475][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1732.120728
+[2025.07.30-22.56.03:686][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-22.56.03:687][104]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1732.292603, Update Interval: 322.495178
+[2025.07.30-22.57.14:525][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.07.30-22.57.14:526][644]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.07.30-22.57.14:527][644]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Principal.Principal:PersistentLevel.StaticMeshActor_0
+[2025.07.30-22.57.14:529][644]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Principal.Principal:PersistentLevel.StaticMeshActor_0
+[2025.07.30-22.57.14:879][645]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.30-22.59.31:443][644]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.30-22.59.53:338][140]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-22.59.53:343][140]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.MI_PrototypeGrid_TopDark
+[2025.07.30-22.59.53:381][140]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.30-22.59.55:142][140]LogPSOHitching: Encountered 150 PSO creation hitches so far (35 graphics, 115 compute). 0 of them were precached.
+[2025.07.30-22.59.55:400][140]LogAutomationController: Ignoring very large delta of 2.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.00.11:795][375]Cmd: TRANSACTION UNDO
+[2025.07.30-23.00.11:795][375]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.07.30-23.00.14:418][431]Cmd: TRANSACTION UNDO
+[2025.07.30-23.00.14:418][431]LogEditorTransaction: Undo Escoger ubicación
+[2025.07.30-23.00.16:029][456]Cmd: TRANSACTION UNDO
+[2025.07.30-23.00.16:030][456]LogEditorTransaction: Undo Escoger ubicación
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Total job queries 2458, among them cache hits 653 (26.57%), DDC hits 1723 (70.10%), Duplicates 76 (3.09%)
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Tracking 1729 distinct input hashes that result in 1075 distinct outputs (62.17%)
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: RAM used: 10,80 MiB of 819,20 MiB budget. Usage: 1.32%
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Average time worker was idle: 21.24 s
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.09 s
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Job execution time: average 1.80 s, max 2.26 s
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Job life time (pending + execution): average 1.84 s, max 2.28
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Shader code size: total 42,426 KiB, numShaders 6, average 7,07 KiB, min 5,309 KiB, max 9,09 KiB
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.22 s
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Average processing rate: 1.42 jobs/sec
+[2025.07.30-23.00.23:109][629]LogShaderCompilers: Display: Total thread time: 7,373 s
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Total thread preprocess time: 50,09 s
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Percentage time preprocessing: 679.37%
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Effective parallelization: 1.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.436930
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.42 sec, max 1.79 sec, min 1.06 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 1.11 sec, max 1.43 sec, min 0.78 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                   TVirtualTexturePSBaseColor (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 38.59% of total time (compiled    2 times, average 1.42 sec, max 1.79 sec, min 1.06 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                                 FLumenCardPS - 30.00% of total time (compiled    2 times, average 1.11 sec, max 1.43 sec, min 0.78 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.95% of total time (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.46% of total time (compiled    1 times, average 1.14 sec, max 1.14 sec, min 1.14 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display:                                   TVirtualTexturePSBaseColor - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Materials Translated:    147
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.00.23:110][629]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.30-23.00.23:111][629]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.00.51:242][277]LogSlate: Window 'MI_PrototypeGrid_TopDark' being destroyed
+[2025.07.30-23.00.51:381][277]LogSlate: Window 'MI_PrototypeGrid_TopDark' being destroyed
+[2025.07.30-23.00.51:437][277]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.00.51:437][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.00.51:586][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.07.30-23.01.42:470][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.07.30-23.01.42:501][122]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Principal_Auto1
+[2025.07.30-23.01.42:501][122]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Principal_Auto182E05BDC48C62175FBCBEF9BEBD67006.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Game/Principal_Auto1.umap'
+[2025.07.30-23.01.42:504][122]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Principal' took 0.059
+[2025.07.30-23.01.42:504][122]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2025.07.30-23.02.05:402][357]Cmd: r.SetRes 1280x720
+[2025.07.30-23.02.05:402][357]r.SetRes = "1280x720"
+[2025.07.30-23.02.17:399][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2106.040039
+[2025.07.30-23.02.17:579][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.02.17:579][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2106.209961, Update Interval: 314.079407
+[2025.07.30-23.02.55:187][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.07.30-23.02.55:604][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.07.30-23.04.21:080][270]LogAutomationController: Ignoring very large delta of 4.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.04.26:473][520]LogAutomationController: Ignoring very large delta of 2.42 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.08.13:545][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2462.181396
+[2025.07.30-23.08.14:545][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.08.14:545][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2462.848389, Update Interval: 336.995758
+[2025.07.30-23.12.13:272][120]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.12.25:038][120]LogInterchangeEngine: [Pendiente] Importando
+[2025.07.30-23.12.25:038][120]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mar_t/OneDrive/Escritorio/Poliigon_GrassPatchyGround_4585_Preview1.png]
+[2025.07.30-23.12.25:127][120]LogAutomationController: Ignoring very large delta of 11.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.12.25:169][122]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.12.25:314][131]LogImageWrapper: Warning: PNG Warning() eXIf: duplicate
+[2025.07.30-23.12.25:315][131]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.30-23.12.25:385][135]LogTexture: Display: Creación de texturas: /Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1.Poliigon_GrassPatchyGround_4585_Preview1 (TFO_AutoDXT, 2048X2048 X1X1X1) (Memoria requerida aproximada: 288.999984 MB), EncodeSpeed: Fast
+[2025.07.30-23.12.25:885][159]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mar_t/OneDrive/Escritorio/Poliigon_GrassPatchyGround_4585_Preview1.png]
+[2025.07.30-23.12.25:888][159]LogInterchangeEngine: [Pendiente] Importando - Operation completed.
+[2025.07.30-23.12.25:888][159]LogInterchangeEngine: [Éxito] Se ha completado la importación
+[2025.07.30-23.12.32:035][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.07.30-23.12.32:038][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Principal' took 0.074
+[2025.07.30-23.12.32:039][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1] ([1] browsable assets)...
+[2025.07.30-23.12.32:045][618]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1.Poliigon_GrassPatchyGround_4585_Preview1]
+[2025.07.30-23.12.32:045][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1]
+[2025.07.30-23.12.32:080][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1_Auto2
+[2025.07.30-23.12.32:080][618]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Poliigon_GrassPatchyGround_4585_C4A8B5A3417DA617E9DC109ED184D54D.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1_Auto2.uasset'
+[2025.07.30-23.12.32:082][618]LogFileHelpers: Auto-saving content packages took 0.044
+[2025.07.30-23.12.41:961][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.07.30-23.12.43:185][413]LogSlate: Window 'Guardar contenido' being destroyed
+[2025.07.30-23.12.43:201][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-23.12.43:261][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Principal" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.30-23.12.43:327][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-23.12.43:343][413]LogSavePackage: Moving output files for package: /Game/Principal
+[2025.07.30-23.12.43:344][413]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/PrincipalC2D9AAB9434C487D5C30819460229500.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap'
+[2025.07.30-23.12.43:364][413]LogFileHelpers: Saving map 'Principal' took 0.105
+[2025.07.30-23.12.43:365][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1] ([1] browsable assets)...
+[2025.07.30-23.12.43:365][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1]
+[2025.07.30-23.12.43:523][413]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1
+[2025.07.30-23.12.43:523][413]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Poliigon_GrassPatchyGround_4585_171A298147F74679FD2624ACEEAE02B3.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1.uasset'
+[2025.07.30-23.12.43:535][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.835 ms (total: 682.135 ms)
+[2025.07.30-23.12.43:605][413]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.30-23.12.43:605][413]LogContentValidation: Enabled validators:
+[2025.07.30-23.12.43:605][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-23.12.43:605][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-23.12.43:605][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-23.12.43:605][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-23.12.43:605][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-23.12.43:605][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-23.12.43:605][413]AssetCheck: /Game/Principal Validando recurso
+[2025.07.30-23.12.43:605][413]AssetCheck: /Game/Characters/Mannequins/Materials/Poliigon_GrassPatchyGround_4585_Preview1 Validando recurso
+[2025.07.30-23.12.43:628][413]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.30-23.13.47:546][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.13.54:685][865]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414655634300201323
+[2025.07.30-23.13.54:685][865]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.07.30-23.13.54:696][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.14.35:407][973]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2844.045410
+[2025.07.30-23.14.35:566][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.14.35:566][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2844.188965, Update Interval: 332.699982
+[2025.07.30-23.15.24:395][ 90]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.30-23.15.24:416][ 90]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Total job queries 2491, among them cache hits 663 (26.62%), DDC hits 1726 (69.29%), Duplicates 78 (3.13%)
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Tracking 1750 distinct input hashes that result in 1091 distinct outputs (62.34%)
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: RAM used: 10,91 MiB of 819,20 MiB budget. Usage: 1.33%
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Shaders Compiled: 24
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Average time worker was idle: 178.67 s
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Time job spent in pending queue: average 1.94 s, longest 5.59 s
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Job execution time: average 2.03 s, max 4.23 s
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Job life time (pending + execution): average 3.97 s, max 9.23
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Shader code size: total 176,812 KiB, numShaders 26, average 6,8 KiB, min 3,266 KiB, max 12,023 KiB
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.59 s
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Average processing rate: 1.77 jobs/sec
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Total thread time: 41,23 s
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Total thread preprocess time: 50,959 s
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Percentage time preprocessing: 123.60%
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.758666
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 3.74 sec, max 3.74 sec, min 3.74 sec)
+[2025.07.30-23.15.25:052][102]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 2.74 sec, max 2.74 sec, min 2.74 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 2.27 sec, max 2.27 sec, min 2.27 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.97 sec, max 1.97 sec, min 1.97 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 1.61 sec, max 1.61 sec, min 1.61 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.46% of total time (compiled    3 times, average 1.58 sec, max 1.88 sec, min 1.06 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.15% of total time (compiled    3 times, average 1.26 sec, max 1.56 sec, min 0.78 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.07% of total time (compiled    1 times, average 3.74 sec, max 3.74 sec, min 3.74 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 6.64% of total time (compiled    1 times, average 2.74 sec, max 2.74 sec, min 2.74 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 6.60% of total time (compiled    2 times, average 1.36 sec, max 1.42 sec, min 1.30 sec)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Materials Translated:    148
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.30-23.15.25:053][102]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.15.28:666][265]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.07.30-23.15.28:926][265]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.07.30-23.15.29:295][265]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.15.30:849][265]LogAutomationController: Ignoring very large delta of 2.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.15.56:564][789]LogSlate: Window 'Plane' being destroyed
+[2025.07.30-23.15.56:628][789]LogSlate: Window 'Plane' being destroyed
+[2025.07.30-23.15.56:749][789]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.15.56:749][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.15.56:837][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.30-23.18.25:055][713]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Total job queries 2502, among them cache hits 664 (26.54%), DDC hits 1731 (69.18%), Duplicates 78 (3.12%)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Tracking 1760 distinct input hashes that result in 1097 distinct outputs (62.33%)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: RAM used: 10,94 MiB of 819,20 MiB budget. Usage: 1.34%
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Shaders Compiled: 29
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Jobs assigned 29, completed 29 (100%)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Average time worker was idle: 157.83 s
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Time job spent in pending queue: average 1.62 s, longest 5.59 s
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Job execution time: average 1.99 s, max 4.23 s
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Job life time (pending + execution): average 3.61 s, max 9.23
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Shader code size: total 216,949 KiB, numShaders 32, average 6,779 KiB, min 3,266 KiB, max 12,023 KiB
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.52 s
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Average processing rate: 1.57 jobs/sec
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Total thread time: 48,59 s
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Total thread preprocess time: 51,285 s
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Percentage time preprocessing: 105.54%
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Effective parallelization: 2.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.656013
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 3.74 sec, max 3.74 sec, min 3.74 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 2.74 sec, max 2.74 sec, min 2.74 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 2.10 sec, max 2.27 sec, min 1.93 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.97 sec, max 1.97 sec, min 1.97 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 1.61 sec, max 1.61 sec, min 1.61 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.30% of total time (compiled    6 times, average 1.40 sec, max 1.88 sec, min 1.06 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                                  FVelocityPS - 8.65% of total time (compiled    2 times, average 2.10 sec, max 2.27 sec, min 1.93 sec)
+[2025.07.30-23.18.25:056][713]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.76% of total time (compiled    3 times, average 1.26 sec, max 1.56 sec, min 0.78 sec)
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.69% of total time (compiled    1 times, average 3.74 sec, max 3.74 sec, min 3.74 sec)
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.08% of total time (compiled    3 times, average 1.15 sec, max 1.31 sec, min 0.96 sec)
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: Materials Translated:    149
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.30-23.18.25:057][713]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.19.46:584][ 15]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.46:584][ 15]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.47:113][ 22]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.47:114][ 22]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.47:385][ 30]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.47:385][ 30]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.49:689][230]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.49:690][230]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.50:339][274]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.50:339][274]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.53:683][540]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.53:684][540]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.54:038][556]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.54:038][556]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.19.54:907][594]Cmd: TRANSACTION UNDO
+[2025.07.30-23.19.54:908][594]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.07.30-23.20.05:000][559]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.20.06:268][569]LogTexture: Display: Creación de texturas: /Engine/Transient.Texture2D_7 (BGRA8, 128X128 X1X1X1) (Memoria requerida aproximada: 1.515617 MB), EncodeSpeed: Fast
+[2025.07.30-23.20.25:311][537]Cmd: DELETE
+[2025.07.30-23.20.25:311][537]Cmd: ACTOR DELETE
+[2025.07.30-23.20.25:315][537]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2025.07.30-23.20.25:532][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.07.30-23.20.25:535][537]LogEditorActor: Deleted 1 Actors (0.225 secs)
+[2025.07.30-23.20.57:738][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3226.381592
+[2025.07.30-23.20.57:926][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.20.57:926][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3226.552734, Update Interval: 332.483887
+[2025.07.30-23.21.25:120][691]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.21.25:120][691]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.21.25:120][691]LogShaderCompilers: Display: Total job queries 2754, among them cache hits 667 (24.22%), DDC hits 1737 (63.07%), Duplicates 198 (7.19%)
+[2025.07.30-23.21.25:120][691]LogShaderCompilers: Display: Tracking 1889 distinct input hashes that result in 1147 distinct outputs (60.72%)
+[2025.07.30-23.21.25:120][691]LogShaderCompilers: Display: RAM used: 11,36 MiB of 819,20 MiB budget. Usage: 1.39%
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Shaders Compiled: 150
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Jobs assigned 152, completed 150 (98.68%)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Average time worker was idle: 99.74 s
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Time job spent in pending queue: average 8.99 s, longest 37.29 s
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Job execution time: average 11.23 s, max 21.50 s
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Job life time (pending + execution): average 20.34 s, max 39.38
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Shader code size: total 1,223 MiB, numShaders 155, average 8,083 KiB, min 2,105 KiB, max 16,766 KiB
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.07 s
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Jobs were issued in 59 batches (only local compilation was used), average 2.58 jobs/batch
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Average processing rate: 2.31 jobs/sec
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Total thread time: 248,879 s
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Total thread preprocess time: 56,669 s
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Percentage time preprocessing: 22.77%
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Effective parallelization: 3.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.956228
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   15 times, average 3.51 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 2.38 sec, max 2.74 sec, min 2.01 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 2.08 sec, max 2.27 sec, min 1.93 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.97 sec, max 1.97 sec, min 1.97 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 1.65 sec, max 2.38 sec, min 1.06 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.18% of total time (compiled   15 times, average 3.51 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.25% of total time (compiled   23 times, average 1.65 sec, max 2.38 sec, min 1.06 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.07% of total time (compiled   17 times, average 1.33 sec, max 1.67 sec, min 0.96 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 8.22% of total time (compiled   14 times, average 1.46 sec, max 1.73 sec, min 1.07 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.71% of total time (compiled   11 times, average 1.29 sec, max 1.56 sec, min 0.75 sec)
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Materials Translated:    166
+[2025.07.30-23.21.25:121][691]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2025.07.30-23.21.25:122][691]LogShaderCompilers: Display: Material Translation Only: 0.15 s (56%)
+[2025.07.30-23.21.25:122][691]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.21.25:122][691]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.30-23.21.25:122][691]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.23.06:147][914]LogStreaming: Display: FlushAsyncLoading(449): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.23.06:152][914]LogChaosDD: Creating Chaos Debug Draw Scene for world Entry
+[2025.07.30-23.23.06:278][916]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Entry.Entry
+[2025.07.30-23.23.06:278][916]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Entry.Entry
+[2025.07.30-23.23.06:330][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.07.30-23.23.06:339][917]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.07.30-23.23.14:299][379]LogStreaming: Display: FlushAsyncLoading(450): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.23.14:363][379]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.30-23.23.14:383][379]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.30-23.23.14:393][379]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.30-23.23.14:403][379]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2025.07.30-23.23.14:403][379]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2025.07.30-23.23.14:403][379]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.30-23.23.14:413][379]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2025.07.30-23.23.15:269][379]LogChaosDD: Creating Chaos Debug Draw Scene for world OpenWorld
+[2025.07.30-23.23.15:271][379]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorld)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.07.30-23.23.15:271][379]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-23.23.15:271][379]LogWorldPartition: UWorldPartition::Initialize : World = /Engine/Maps/Templates/OpenWorld.OpenWorld, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-23.23.15:282][379]LogWorldPartition: Display: WorldPartition initialize took 11.743 ms (total: 322.117 ms)
+[2025.07.30-23.23.18:775][535]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_5
+[2025.07.30-23.23.27:291][997]LogStreaming: Display: FlushAsyncLoading(595): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.23.27:605][997]LogMeshUtilities: Finished distance field build in 12.3s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.23.31:960][294]LogMeshUtilities: Finished distance field build in 16.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.23.34:711][473]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.34:711][473]LogEditorTransaction: Undo Editar Secciones por componente
+[2025.07.30-23.23.35:801][514]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.35:801][514]LogEditorTransaction: Undo Editar Secciones por componente
+[2025.07.30-23.23.36:429][553]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.36:429][553]LogEditorTransaction: Undo Editar Tamaño de sección
+[2025.07.30-23.23.36:871][578]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.36:871][578]LogEditorTransaction: Undo Escalar elementos
+[2025.07.30-23.23.37:306][605]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.37:307][605]LogEditorTransaction: Undo Eliminar elementos
+[2025.07.30-23.23.37:790][633]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.37:790][633]LogEditorTransaction: Undo Escoger ubicación
+[2025.07.30-23.23.38:177][656]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.38:177][656]LogEditorTransaction: Undo Haciendo clic en componente (vista en árbol)
+[2025.07.30-23.23.39:455][740]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.39:455][740]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-23.23.39:751][745]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.39:751][745]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-23.23.39:999][749]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.39:999][749]LogEditorTransaction: Undo Colocar objetos
+[2025.07.30-23.23.40:233][763]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.40:233][763]LogEditorTransaction: Undo Escoger ubicación
+[2025.07.30-23.23.40:946][810]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.40:946][810]LogEditorTransaction: Undo Escoger ubicación
+[2025.07.30-23.23.41:540][849]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.41:541][849]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-23.23.41:604][852]LogMeshUtilities: Finished distance field build in 13.8s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.23.42:161][888]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.42:161][888]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-23.23.43:073][946]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.43:073][946]LogEditorTransaction: Undo Hacer clic en elementos
+[2025.07.30-23.23.43:318][950]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.43:318][950]LogEditorTransaction: Undo Hacer clic en el fondo
+[2025.07.30-23.23.43:505][953]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.43:505][953]LogEditorTransaction: Undo Escoger ubicación
+[2025.07.30-23.23.43:714][959]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.43:714][959]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-23.23.44:242][993]Cmd: TRANSACTION UNDO
+[2025.07.30-23.23.44:243][993]LogEditorTransaction: Undo Crear actor
+[2025.07.30-23.23.47:886][230]LogMeshUtilities: Finished distance field build in 20.1s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 67% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.23.56:931][792]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.07.30-23.23.57:846][840]LogMeshUtilities: Finished distance field build in 15.2s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.02:919][112]LogMeshUtilities: Finished distance field build in 20.3s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.11:497][568]LogMeshUtilities: Finished distance field build in 12.5s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.18:775][ 72]LogMeshUtilities: Finished distance field build in 10.4s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Total job queries 2804, among them cache hits 672 (23.97%), DDC hits 1758 (62.70%), Duplicates 198 (7.06%)
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Tracking 1934 distinct input hashes that result in 1174 distinct outputs (60.70%)
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: RAM used: 11,54 MiB of 819,20 MiB budget. Usage: 1.41%
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Shaders Compiled: 176
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Jobs assigned 176, completed 176 (100%)
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Average time worker was idle: 74.34 s
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Time job spent in pending queue: average 7.80 s, longest 37.29 s
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Job execution time: average 10.00 s, max 21.50 s
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Job life time (pending + execution): average 17.81 s, max 39.38
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Shader code size: total 1,471 MiB, numShaders 187, average 8,057 KiB, min 2,105 KiB, max 16,766 KiB
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.39 s
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Jobs were issued in 83 batches (only local compilation was used), average 2.12 jobs/batch
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Average processing rate: 2.01 jobs/sec
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Total thread time: 316,177 s
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Total thread preprocess time: 58,199 s
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Percentage time preprocessing: 18.41%
+[2025.07.30-23.24.25:163][518]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.904489
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   15 times, average 3.51 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 2.49 sec, max 2.99 sec, min 2.01 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 2.33 sec, max 3.14 sec, min 1.93 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.97 sec, max 1.97 sec, min 1.97 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   34 times, average 1.89 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.28% of total time (compiled   34 times, average 1.89 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.67% of total time (compiled   15 times, average 3.51 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.20% of total time (compiled   24 times, average 1.61 sec, max 5.79 sec, min 0.96 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 6.47% of total time (compiled   14 times, average 1.46 sec, max 1.73 sec, min 1.07 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display:                                                 FLumenCardPS - 4.49% of total time (compiled   11 times, average 1.29 sec, max 1.56 sec, min 0.75 sec)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Materials Translated:    169
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Material Translation Only: 0.15 s (56%)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.30-23.24.25:164][518]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.24.28:857][632]LogMeshUtilities: Finished distance field build in 13.2s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.33:428][  0]LogMeshUtilities: Finished distance field build in 7.9s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.41:848][423]LogMeshUtilities: Finished distance field build in 10.8s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.45:924][625]LogMeshUtilities: Finished distance field build in 7.2s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.51:003][876]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.51:751][919]LogMeshUtilities: Finished distance field build in 7.9s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.24.56:815][199]LogMeshUtilities: Finished distance field build in 5.6s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.03:836][589]LogMeshUtilities: Finished distance field build in 9.0s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 58% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.11:007][944]LogMeshUtilities: Finished distance field build in 10.0s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 61% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.15:414][125]LogMeshUtilities: Finished distance field build in 7.0s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.19:935][322]LogMeshUtilities: Finished distance field build in 6.5s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.32:090][878]LogMeshUtilities: Finished distance field build in 14.3s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.35:451][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.07.30-23.25.35:451][ 38]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.07.30-23.25.35:455][ 38]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Principal.Principal:PersistentLevel.StaticMeshActor_1
+[2025.07.30-23.25.35:456][ 38]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Principal.Principal:PersistentLevel.StaticMeshActor_1
+[2025.07.30-23.25.40:684][197]LogMeshUtilities: Finished distance field build in 11.8s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.46:599][447]LogMeshUtilities: Finished distance field build in 9.7s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.50:430][573]LogMeshUtilities: Finished distance field build in 6.8s - 126x126x35 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.56:514][769]LogMeshUtilities: Finished distance field build in 7.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.25.57:738][833]LogPSOHitching: Encountered 200 PSO creation hitches so far (81 graphics, 119 compute). 0 of them were precached.
+[2025.07.30-23.26.02:410][910]LogMeshUtilities: Finished distance field build in 8.2s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.08:108][ 27]LogMeshUtilities: Finished distance field build in 8.2s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.12:910][107]LogMeshUtilities: Finished distance field build in 7.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.20:265][241]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.26.20:265][241]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.26.22:799][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.07.30-23.26.22:803][325]LogEditorActor: Deleted 0 Actors (0.194 secs)
+[2025.07.30-23.26.22:813][325]LogMeshUtilities: Finished distance field build in 12.2s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.22:814][325]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.26.22:815][325]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.26.22:829][325]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Engine/Maps/Templates/OpenWorld_LevelInstance_715f385c47f70c5a_0) is flushing async loading
+[2025.07.30-23.26.22:829][325]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.26.22:836][325]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorld)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=0, InitializeForMainWorld=0, InitializeForEditor=1, InitializeForGame=0)
+[2025.07.30-23.26.22:836][325]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-23.26.22:836][325]LogWorldPartition: UWorldPartition::Initialize : World = /Temp/Engine/Maps/Templates/OpenWorld_LevelInstance_715f385c47f70c5a_0.OpenWorld, World Type = Editor, IsMainWorldPartition = 0, Location = V(X=-150.00, Y=-50.00, Z=20.00), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-23.26.22:838][325]LogActorComponent: ReregisterComponent: (/Temp/Engine/Maps/Templates/OpenWorld_LevelInstance_715f385c47f70c5a_0.OpenWorld:PersistentLevel.Brush_0.BrushComponent0) Not currently registered. Aborting.
+[2025.07.30-23.26.23:923][325]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.07.30-23.26.24:123][325]LogWorldPartition: Display: WorldPartition initialize took 1.28 sec (total: 1.60 sec)
+[2025.07.30-23.26.24:563][325]LogLevelInstance: Loaded 1 levels in 1,737 seconds
+[2025.07.30-23.26.24:682][325]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.26.27:437][341]LogMeshUtilities: Finished distance field build in 8.3s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.35:168][400]LogMeshUtilities: Finished distance field build in 7.7s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 58% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.40:060][436]LogMeshUtilities: Finished distance field build in 7.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.45:500][476]LogMeshUtilities: Finished distance field build in 7.6s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.49:676][506]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.50:277][507]LogMeshUtilities: Finished distance field build in 7.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.26.59:789][677]LogMeshUtilities: Finished distance field build in 10.0s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.07:227][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3595.880371
+[2025.07.30-23.27.07:391][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.27.07:391][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3596.030762, Update Interval: 316.780304
+[2025.07.30-23.27.07:546][105]LogMeshUtilities: Finished distance field build in 10.9s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.13:993][527]LogMeshUtilities: Finished distance field build in 9.8s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.27:148][289]LogMeshUtilities: Finished distance field build in 16.7s - 126x126x126 sparse distance field, 3.1Mb total, 0.1Mb always loaded, 94% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.32:086][610]LogMeshUtilities: Finished distance field build in 8.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.38:165][  0]LogMeshUtilities: Finished distance field build in 8.5s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.45:328][451]LogMeshUtilities: Finished distance field build in 10.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.51:909][847]LogMeshUtilities: Finished distance field build in 9.6s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.27.56:703][110]LogMeshUtilities: Finished distance field build in 7.7s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.02:318][426]LogMeshUtilities: Finished distance field build in 7.9s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.07:432][719]LogMeshUtilities: Finished distance field build in 7.6s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.22:186][670]LogMeshUtilities: Finished distance field build in 17.2s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.28:300][ 49]LogMeshUtilities: Finished distance field build in 10.3s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.31:978][ 73]LogMeshUtilities: Finished distance field build in 6.5s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.40:579][208]LogMeshUtilities: Finished distance field build in 10.3s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.45:809][241]LogMeshUtilities: Finished distance field build in 5.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.49:795][265]LogDerivedDataCache: C:/Users/mar_t/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.30-23.28.53:596][355]LogMeshUtilities: Finished distance field build in 7.7s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.28.59:607][994]LogMeshUtilities: Finished distance field build in 6.0s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.07:215][176]LogMeshUtilities: Finished distance field build in 9.9s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.10:080][193]LogMeshUtilities: Finished distance field build in 5.9s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.14:698][222]LogMeshUtilities: Finished distance field build in 4.5s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.20:688][257]LogMeshUtilities: Finished distance field build in 6.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.27:223][673]LogMeshUtilities: Finished distance field build in 6.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.37:307][311]LogMeshUtilities: Finished distance field build in 10.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.46:426][895]LogMeshUtilities: Finished distance field build in 12.5s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 64% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.52:407][505]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.29.59:029][188]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.30.03:050][634]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.30.03:380][671]LogMeshUtilities: Finished distance field build in 7.1s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2025.07.30-23.30.32:174][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.07.30-23.30.35:012][453]LogSlate: Window 'Guardar contenido' being destroyed
+[2025.07.30-23.30.35:029][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-23.30.35:088][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Principal" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.30-23.30.35:165][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.07.30-23.30.35:183][453]LogSavePackage: Moving output files for package: /Game/Principal
+[2025.07.30-23.30.35:185][453]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Principal01F749E84A968CD6C1A5DCBE6B98B6F4.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/Principal.umap'
+[2025.07.30-23.30.35:206][453]LogFileHelpers: Saving map 'Principal' took 0.119
+[2025.07.30-23.30.35:271][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.703 ms (total: 923.839 ms)
+[2025.07.30-23.30.35:272][453]LogAssetEditorSubsystem: Opening Asset editor for World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.30.35:272][453]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.30-23.30.35:339][453]LogWorld: UWorld::CleanupWorld for Principal, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.30.35:340][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.30.35:340][453]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Engine/Maps/Templates/OpenWorld_LevelInstance_715f385c47f70c5a_0.OpenWorld
+[2025.07.30-23.30.35:341][453]LogWorld: UWorld::CleanupWorld for OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.30.35:341][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.30.35:368][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-23.30.35:391][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.30-23.30.35:398][453]LogWorld: UWorld::CleanupWorld for OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.30.35:416][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.30.35:416][453]LogWorldPartition: UWorldPartition::Uninitialize : World = /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.30.35:418][453]LogWorld: UWorld::CleanupWorld for Entry, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.30.35:418][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.30.35:472][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.07.30-23.30.35:500][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.07.30-23.30.35:501][453]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.30.35:506][453]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorld'.
+[2025.07.30-23.30.35:506][453]LogChaosDD: Creating Chaos Debug Draw Scene for world OpenWorld
+[2025.07.30-23.30.35:509][453]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorld)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.07.30-23.30.35:509][453]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.30-23.30.35:509][453]LogWorldPartition: UWorldPartition::Initialize : World = /Engine/Maps/Templates/OpenWorld.OpenWorld, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.30-23.30.35:943][453]LogWorldPartition: Display: WorldPartition initialize took 433.722 ms (total: 2.04 sec)
+[2025.07.30-23.30.36:246][453]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.30-23.30.36:273][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.30-23.30.36:290][453]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.30-23.30.36:292][453]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 2,629 ms en completarse.
+[2025.07.30-23.30.36:385][453]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-23.30.36:385][453]LogContentValidation: Enabled validators:
+[2025.07.30-23.30.36:385][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-23.30.36:385][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-23.30.36:385][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-23.30.36:385][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-23.30.36:385][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-23.30.36:385][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-23.30.36:984][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.07.30-23.30.37:028][453]LogAutomationController: Ignoring very large delta of 4.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.30.51:605][354]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.33.01:620][511]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.33.01:620][511]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.33.01:621][511]LogLevelInstance: Warning: Setting LevelInstance to /Engine/Maps/Templates/OpenWorld would cause loop LevelInstance_0:/Engine/Maps/Templates/OpenWorld
+-> Actor: /Engine/Maps/Templates/OpenWorld.OpenWorld:PersistentLevel.LevelInstance_0 carga /Engine/Maps/Templates/OpenWorld
+
+[2025.07.30-23.33.01:621][511]LogLevelInstance: Warning: Setting LevelInstance to /Engine/Maps/Templates/OpenWorld would cause loop LevelInstance_0:/Engine/Maps/Templates/OpenWorld
+-> Actor: /Engine/Maps/Templates/OpenWorld.OpenWorld:PersistentLevel.LevelInstance_0 carga /Engine/Maps/Templates/OpenWorld
+
+[2025.07.30-23.33.02:655][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.07.30-23.33.02:663][599]LogEditorActor: Deleted 0 Actors (0.037 secs)
+[2025.07.30-23.33.02:671][599]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.33.02:671][599]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.33.02:675][599]LogLevelInstance: Warning: Setting LevelInstance to /Engine/Maps/Templates/OpenWorld would cause loop LevelInstance_UAID_047F0E7493BB9B8002_1565985944:/Engine/Maps/Templates/OpenWorld
+-> Actor: /Engine/Maps/Templates/OpenWorld.OpenWorld:PersistentLevel.LevelInstance_UAID_047F0E7493BB9B8002_1565985944 carga /Engine/Maps/Templates/OpenWorld
+
+[2025.07.30-23.33.02:675][599]LogLevelInstance: Warning: Setting LevelInstance to /Engine/Maps/Templates/OpenWorld would cause loop LevelInstance_UAID_047F0E7493BB9B8002_1565985944:/Engine/Maps/Templates/OpenWorld
+-> Actor: /Engine/Maps/Templates/OpenWorld.OpenWorld:PersistentLevel.LevelInstance_UAID_047F0E7493BB9B8002_1565985944 carga /Engine/Maps/Templates/OpenWorld
+
+[2025.07.30-23.33.13:640][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3962.289551
+[2025.07.30-23.33.13:833][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.33.13:833][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3962.469482, Update Interval: 353.741272
+[2025.07.30-23.36.20:073][220]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.07.30-23.37.00:064][368]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.37.00:064][368]LogActorFactory: Actor Factory attempting to spawn World /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.37.00:070][368]LogLevelInstance: Warning: Setting LevelInstance to /Engine/Maps/Templates/OpenWorld would cause loop LevelInstance_UAID_047F0E7493BB9B8002_1803378945:/Engine/Maps/Templates/OpenWorld
+-> Actor: /Engine/Maps/Templates/OpenWorld.OpenWorld:PersistentLevel.LevelInstance_UAID_047F0E7493BB9B8002_1803378945 carga /Engine/Maps/Templates/OpenWorld
+
+[2025.07.30-23.37.00:071][368]LogLevelInstance: Warning: Setting LevelInstance to /Engine/Maps/Templates/OpenWorld would cause loop LevelInstance_UAID_047F0E7493BB9B8002_1803378945:/Engine/Maps/Templates/OpenWorld
+-> Actor: /Engine/Maps/Templates/OpenWorld.OpenWorld:PersistentLevel.LevelInstance_UAID_047F0E7493BB9B8002_1803378945 carga /Engine/Maps/Templates/OpenWorld
+
+[2025.07.30-23.37.06:303][901]Cmd: DELETE
+[2025.07.30-23.37.06:303][901]Cmd: ACTOR DELETE
+[2025.07.30-23.37.06:306][901]LogStreaming: Display: FlushAsyncLoading(817): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.37.06:310][901]LogChaosDD: Creating Chaos Debug Draw Scene for world Principal
+[2025.07.30-23.37.06:318][901]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2025.07.30-23.37.06:416][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.30-23.37.06:422][901]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2025.07.30-23.37.08:937][ 97]Cmd: DELETE
+[2025.07.30-23.37.08:937][ 97]Cmd: ACTOR DELETE
+[2025.07.30-23.37.08:942][ 97]LogEditorActor: Deleted Actor: LevelInstance
+[2025.07.30-23.37.08:970][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.07.30-23.37.08:971][ 97]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.07.30-23.37.36:102][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-23.37.36:203][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.07.30-23.37.36:230][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.30-23.37.36:257][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.30-23.37.36:259][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Maps/Templates/OpenWorld" FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.30-23.37.36:324][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.30-23.37.36:340][133]LogSavePackage: Moving output files for package: /Engine/Maps/Templates/OpenWorld
+[2025.07.30-23.37.36:341][133]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/OpenWorld4A0BF1DC48687D35BF92F4B4A3D14D07.tmp' to '../../../Engine/Content/Maps/Templates/OpenWorld.umap'
+[2025.07.30-23.37.36:361][133]LogFileHelpers: Saving map 'OpenWorld' took 0.102
+[2025.07.30-23.37.36:375][133]LogSavePackage: Moving output files for package: /Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/5O/XNSBHFYWCKENDK3NDWCASW
+[2025.07.30-23.37.36:375][133]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/XNSBHFYWCKENDK3NDWCASWED72C6454CC1C5CA1B33ADB9725B8ED5.tmp' to '../../../Engine/Content/__ExternalActors__/Maps/Templates/OpenWorld/B/5O/XNSBHFYWCKENDK3NDWCASW.uasset'
+[2025.07.30-23.37.36:400][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.002 ms (total: 1.22 sec)
+[2025.07.30-23.37.36:439][133]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.30-23.37.36:439][133]LogContentValidation: Enabled validators:
+[2025.07.30-23.37.36:439][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-23.37.36:439][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-23.37.36:439][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-23.37.36:439][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-23.37.36:439][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-23.37.36:439][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-23.37.36:441][133]AssetCheck: /Engine/Maps/Templates/OpenWorld Validando recurso
+[2025.07.30-23.37.36:466][133]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.30-23.38.31:443][376]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2025.07.30-23.38.31:458][376]LogContentBrowser: Creating deferred item: NewWorld
+[2025.07.30-23.38.31:478][377]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2025.07.30-23.38.39:401][986]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2025.07.30-23.38.39:401][986]LogChaosDD: Creating Chaos Debug Draw Scene for world NewWorld
+[2025.07.30-23.38.39:405][986]LogContentBrowser: End creating deferred item NewWorld
+[2025.07.30-23.38.42:120][159]LogObjectTools: Deleting 1 worlds: /Game/Principal.Principal
+[2025.07.30-23.38.42:120][159]LogObjectTools: Currently 7 active worlds: /Engine/Maps/Templates/OpenWorld.OpenWorld, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_7
+[2025.07.30-23.38.42:148][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.07.30-23.38.42:308][159]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.07.30-23.38.42:338][159]LogSlate: Took 0.027453 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.07.30-23.38.44:153][159]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.30-23.38.44:162][159]LogWorld: UWorld::CleanupWorld for Principal, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.38.44:163][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.38.44:217][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.07.30-23.38.44:248][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.07.30-23.38.44:278][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.30-23.38.44:307][159]LogAutomationController: Ignoring very large delta of 2.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.39.44:431][677]LogSlate: Window 'Guardar recurso como' being destroyed
+[2025.07.30-23.39.44:465][677]LogAutomationController: Ignoring very large delta of 12.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.39.54:761][391]LogContentBrowser: Deferred new asset file creation: NewWorld1
+[2025.07.30-23.39.54:774][391]LogContentBrowser: Creating deferred item: NewWorld1
+[2025.07.30-23.39.54:793][392]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld1).
+[2025.07.30-23.39.55:597][443]LogContentBrowser: Attempting asset rename: NewWorld1 -> NewWorld1
+[2025.07.30-23.39.55:599][443]LogChaosDD: Creating Chaos Debug Draw Scene for world NewWorld1
+[2025.07.30-23.39.55:602][443]LogContentBrowser: End creating deferred item NewWorld1
+[2025.07.30-23.39.57:065][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4365.665039
+[2025.07.30-23.39.57:246][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.39.57:246][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4365.832031, Update Interval: 330.033875
+[2025.07.30-23.40.15:453][821]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2025.07.30-23.40.15:453][821]LogObjectTools: Currently 7 active worlds: /Engine/Maps/Templates/OpenWorld.OpenWorld, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_7
+[2025.07.30-23.40.15:519][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.07.30-23.40.17:426][821]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.30-23.40.17:433][821]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.40.17:433][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.40.17:462][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.30-23.40.17:486][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.07.30-23.40.17:514][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.30-23.40.17:536][821]LogAutomationController: Ignoring very large delta of 2.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.41.03:132][571]LogStreaming: Display: FlushAsyncLoading(818): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.41.15:154][571]LogSlate: Window 'Nuevo nivel' being destroyed
+[2025.07.30-23.41.18:812][571]LogSlate: Window 'Guardar contenido' being destroyed
+[2025.07.30-23.41.18:846][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.30-23.41.18:902][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld1" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/NewWorld1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.30-23.41.18:930][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.30-23.41.18:948][571]LogSavePackage: Moving output files for package: /Game/NewWorld1
+[2025.07.30-23.41.18:948][571]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/NewWorld181454F9642F3556D5AD71C8AA15BC18F.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/NewWorld1.umap'
+[2025.07.30-23.41.18:960][571]LogFileHelpers: Saving map 'NewWorld1' took 0.059
+[2025.07.30-23.41.18:973][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.813 ms (total: 1.34 sec)
+[2025.07.30-23.41.18:973][571]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.30-23.41.19:038][571]LogWorld: UWorld::CleanupWorld for OpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.41.19:039][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.41.19:039][571]LogWorldPartition: UWorldPartition::Uninitialize : World = /Engine/Maps/Templates/OpenWorld.OpenWorld
+[2025.07.30-23.41.19:097][571]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.30-23.41.19:123][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.07.30-23.41.19:131][571]LogWorld: UWorld::CleanupWorld for NewWorld1, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.41.19:131][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.41.19:158][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.07.30-23.41.19:182][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.30-23.41.19:191][571]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.07.30-23.41.19:191][571]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.07.30-23.41.19:298][571]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.30-23.41.19:325][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.30-23.41.19:325][571]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.30-23.41.19:326][571]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 0,258 ms en completarse.
+[2025.07.30-23.41.19:385][571]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.30-23.41.19:385][571]LogContentValidation: Enabled validators:
+[2025.07.30-23.41.19:385][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.30-23.41.19:385][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.30-23.41.19:385][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.30-23.41.19:385][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.30-23.41.19:385][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.30-23.41.19:385][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.30-23.41.19:451][571]LogAutomationController: Ignoring very large delta of 16.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.41.19:453][571]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.30-23.41.34:979][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.41.34:979][705]Can't find target element.
+[2025.07.30-23.41.35:952][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.41.35:952][785]Can't find target element.
+[2025.07.30-23.42.25:389][  9]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.42.25:389][  9]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Total job queries 2820, among them cache hits 681 (24.15%), DDC hits 1763 (62.52%), Duplicates 198 (7.02%)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Tracking 1941 distinct input hashes that result in 1178 distinct outputs (60.69%)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: RAM used: 11,56 MiB of 819,20 MiB budget. Usage: 1.41%
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Shaders Compiled: 178
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Jobs assigned 178, completed 178 (100%)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Average time worker was idle: 99.38 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Time job spent in pending queue: average 7.72 s, longest 37.29 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Job execution time: average 9.91 s, max 21.50 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Job life time (pending + execution): average 17.62 s, max 39.38
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Shader code size: total 1,487 MiB, numShaders 189, average 8,061 KiB, min 2,105 KiB, max 16,766 KiB
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 89.60 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 2.09 jobs/batch
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Average processing rate: 1.99 jobs/sec
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Total thread time: 318,945 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Total thread preprocess time: 58,563 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Percentage time preprocessing: 18.36%
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Effective parallelization: 3.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.889887
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   15 times, average 3.51 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 2.49 sec, max 2.99 sec, min 2.01 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 2.33 sec, max 3.14 sec, min 1.93 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.97 sec, max 1.97 sec, min 1.97 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   35 times, average 1.88 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.68% of total time (compiled   35 times, average 1.88 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.53% of total time (compiled   15 times, average 3.51 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.39% of total time (compiled   25 times, average 1.58 sec, max 5.79 sec, min 0.94 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 6.41% of total time (compiled   14 times, average 1.46 sec, max 1.73 sec, min 1.07 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display:                                                 FLumenCardPS - 4.45% of total time (compiled   11 times, average 1.29 sec, max 1.56 sec, min 0.75 sec)
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Materials Translated:    171
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.07.30-23.42.25:390][  9]LogShaderCompilers: Display: Material Translation Only: 0.15 s (56%)
+[2025.07.30-23.42.25:391][  9]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.42.25:391][  9]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2025.07.30-23.42.25:391][  9]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.43.27:910][266]Cmd: TRANSACTION UNDO
+[2025.07.30-23.43.27:910][266]LogEditorTransaction: Undo Colocar objetos
+[2025.07.30-23.43.56:638][127]LogStreaming: Display: FlushAsyncLoading(821): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.43.56:739][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.07.30-23.43.56:769][128]LogSkeletalMesh: Display: Esperando que recursos con piel esté listo0 /1 (SKM_Manny_Simple)...
+[2025.07.30-23.43.57:001][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.07.30-23.44.20:867][556]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.44.24:592][836]Cmd: EDIT COPY
+[2025.07.30-23.46.03:112][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4731.703125
+[2025.07.30-23.46.04:112][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.46.04:112][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4732.370117, Update Interval: 320.358276
+[2025.07.30-23.49.10:418][939]LogStreaming: Display: FlushAsyncLoading(823): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.49.10:438][939]LogInterchangeEngine: [Pendiente] Importando
+[2025.07.30-23.49.10:438][939]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_HDR_2K.exr]
+[2025.07.30-23.49.10:441][939]LogInterchangeEngine: [Pendiente] Importando -  (2)
+[2025.07.30-23.49.10:441][939]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_JPG_2K.JPG]
+[2025.07.30-23.49.10:442][939]LogInterchangeEngine: [Pendiente] Importando -  (3)
+[2025.07.30-23.49.10:442][939]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_preview1.jpg]
+[2025.07.30-23.49.10:493][939]LogAutomationController: Ignoring very large delta of 7.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.49.10:555][941]LogStreaming: Display: FlushAsyncLoading(826): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.49.10:557][941]LogInterchangeImport: JPEG file [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_JPG_2K.JPG]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.30-23.49.10:557][942]LogInterchangeImport: JPEG file [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_preview1.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.30-23.49.10:589][943]LogTexture: Display: Creación de texturas: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1.HdrOutdoorFieldBaseballDayClear001_preview1 (BGRA8, 900X450 X1X1X1) (Memoria requerida aproximada: 14.904572 MB), EncodeSpeed: Fast
+[2025.07.30-23.49.10:674][944]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_preview1.jpg]
+[2025.07.30-23.49.10:674][944]LogInterchangeEngine: [Pendiente] Importando -  (2)
+[2025.07.30-23.49.10:695][945]LogTexture: Display: Creación de texturas: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K.HdrOutdoorFieldBaseballDayClear001_JPG_2K (TFO_AutoDXT, 2048X1024 X1X1X1) (Memoria requerida aproximada: 140.999969 MB), EncodeSpeed: Fast
+[2025.07.30-23.49.10:934][956]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_JPG_2K.JPG]
+[2025.07.30-23.49.10:934][956]LogInterchangeEngine: [Pendiente] Importando -  (1)
+[2025.07.30-23.49.10:996][960]LogTexture: Display: Creación de texturas: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K.HdrOutdoorFieldBaseballDayClear001_HDR_2K (TFO_BC6H, 2048X1024 X1X1X1) (Memoria requerida aproximada: 190.333296 MB), EncodeSpeed: Fast
+[2025.07.30-23.49.14:032][100]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mar_t/OneDrive/Escritorio/HdrOutdoorFieldBaseballDayClear001_HDR_2K.exr]
+[2025.07.30-23.49.14:034][100]LogInterchangeEngine: [Pendiente] Importando - Operation completed.
+[2025.07.30-23.49.14:034][100]LogInterchangeEngine: [Éxito] Se ha completado la importación
+[2025.07.30-23.51.17:486][511]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1D8E9492-4C27-3B8B-688F-568980B4A9B8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.30-23.51.17:486][511]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.30-23.51.17:486][511]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 0 (Found bundle for host: 0x1dd0f0803f0 [serially])
+[2025.07.30-23.51.17:486][511]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 6 (Closing connection)
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.30-23.51.17:486][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 8 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1D8E9492-4C27-3B8B-688F-568980B4A9B8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.07.30-23.51.17:487][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.07.30-23.51.17:487][512]LogEOSSDK: Warning: LogHttp: 000001DCA62CC000: libcurl info message cache 10 (Closing connection)
+[2025.07.30-23.51.17:497][512]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1D8E9492-4C27-3B8B-688F-568980B4A9B8%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: Total job queries 2868, among them cache hits 713 (24.86%), DDC hits 1773 (61.82%), Duplicates 200 (6.97%)
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: Tracking 1955 distinct input hashes that result in 1189 distinct outputs (60.82%)
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: RAM used: 11,64 MiB of 819,20 MiB budget. Usage: 1.42%
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: Shaders Compiled: 182
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: Jobs assigned 182, completed 182 (100%)
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: Average time worker was idle: 142.96 s
+[2025.07.30-23.51.25:533][201]LogShaderCompilers: Display: Time job spent in pending queue: average 7.55 s, longest 37.29 s
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Job execution time: average 9.75 s, max 21.50 s
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Job life time (pending + execution): average 17.30 s, max 39.38
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Shader code size: total 1,521 MiB, numShaders 193, average 8,071 KiB, min 2,105 KiB, max 16,766 KiB
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 94.28 s
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 2.04 jobs/batch
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Average processing rate: 1.93 jobs/sec
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Total thread time: 328,692 s
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Total thread preprocess time: 59,671 s
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Percentage time preprocessing: 18.15%
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Effective parallelization: 3.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.871601
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   16 times, average 3.55 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 2.49 sec, max 2.99 sec, min 2.01 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    6 times, average 2.33 sec, max 3.14 sec, min 1.93 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 2.04 sec, max 2.11 sec, min 1.97 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   36 times, average 1.89 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.68% of total time (compiled   36 times, average 1.89 sec, max 6.94 sec, min 1.06 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                             FDebugViewModePS - 17.28% of total time (compiled   16 times, average 3.55 sec, max 4.83 sec, min 2.30 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.02% of total time (compiled   25 times, average 1.58 sec, max 5.79 sec, min 0.94 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 6.22% of total time (compiled   14 times, average 1.46 sec, max 1.73 sec, min 1.07 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display:                                                 FLumenCardPS - 4.78% of total time (compiled   12 times, average 1.31 sec, max 1.56 sec, min 0.75 sec)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: === Material stats ===
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Materials Translated:    174
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Material Translation Only: 0.15 s (56%)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: Material Cache Hits: 1 (1%)
+[2025.07.30-23.51.25:534][201]LogShaderCompilers: Display: ================================================
+[2025.07.30-23.51.30:234][524]Cmd: TRANSACTION UNDO
+[2025.07.30-23.51.30:234][524]LogEditorTransaction: Undo Mover elementos
+[2025.07.30-23.52.17:919][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5106.528809
+[2025.07.30-23.52.18:081][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.52.18:081][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5106.674805, Update Interval: 304.165771
+[2025.07.30-23.52.49:977][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.07.30-23.52.50:011][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Temp/Untitled_1_Auto3
+[2025.07.30-23.52.50:011][321]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Untitled_1_Auto31897DB9F45CE7770A601C1A43A27E631.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2025.07.30-23.52.50:012][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.065
+[2025.07.30-23.52.50:012][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2025.07.30-23.52.50:013][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat] ([1] browsable assets)...
+[2025.07.30-23.52.50:147][321]OBJ SavePackage:     Rendered thumbnail for [Material /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat.HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat]
+[2025.07.30-23.52.50:147][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat]
+[2025.07.30-23.52.50:164][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat_Auto3
+[2025.07.30-23.52.50:164][321]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear0DE9BE7F84B151051D55848B297A8FE61.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Mat_Auto3.uasset'
+[2025.07.30-23.52.50:165][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K] ([1] browsable assets)...
+[2025.07.30-23.52.50:168][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K.HdrOutdoorFieldBaseballDayClear001_HDR_2K]
+[2025.07.30-23.52.50:168][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K]
+[2025.07.30-23.52.50:441][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K_Auto3
+[2025.07.30-23.52.50:441][321]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear048DBFC7C43695735C07CE680CFF0009C.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_HDR_2K_Auto3.uasset'
+[2025.07.30-23.52.50:442][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K] ([1] browsable assets)...
+[2025.07.30-23.52.50:447][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K.HdrOutdoorFieldBaseballDayClear001_JPG_2K]
+[2025.07.30-23.52.50:447][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K]
+[2025.07.30-23.52.50:466][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Auto3
+[2025.07.30-23.52.50:466][321]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear038B8BABA4B1F0CA419092DAC42C14536.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_JPG_2K_Auto3.uasset'
+[2025.07.30-23.52.50:467][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1] ([1] browsable assets)...
+[2025.07.30-23.52.50:472][321]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1.HdrOutdoorFieldBaseballDayClear001_preview1]
+[2025.07.30-23.52.50:472][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1]
+[2025.07.30-23.52.50:486][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1_Auto3
+[2025.07.30-23.52.50:486][321]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/HdrOutdoorFieldBaseballDayClear0923E3C9C4066463D34CA9D8FDC678088.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Autosaves/Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1_Auto3.uasset'
+[2025.07.30-23.52.50:487][321]LogFileHelpers: Auto-saving content packages took 0.475
+[2025.07.30-23.53.55:262][606]LogAutomationController: Ignoring very large delta of 28.90 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.54.44:207][100]LogStreaming: Display: FlushAsyncLoading(829): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.54.44:229][100]LogInterchangeEngine: [Pendiente] Importando
+[2025.07.30-23.54.44:230][100]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mar_t/OneDrive/Escritorio/2.jpg]
+[2025.07.30-23.54.44:275][100]LogAutomationController: Ignoring very large delta of 3.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.30-23.54.44:310][102]LogStreaming: Display: FlushAsyncLoading(830): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.30-23.54.44:311][102]LogInterchangeImport: JPEG file [C:/Users/mar_t/OneDrive/Escritorio/2.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.30-23.54.44:342][104]LogTexture: Display: Creación de texturas: /Game/LevelPrototyping/Textures/2.2 (TFO_AutoDXT, 540X360 X1X1X1) (Memoria requerida aproximada: 23.123718 MB), EncodeSpeed: Fast
+[2025.07.30-23.54.44:399][106]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mar_t/OneDrive/Escritorio/2.jpg]
+[2025.07.30-23.54.44:400][106]LogInterchangeEngine: [Pendiente] Importando - Operation completed.
+[2025.07.30-23.54.44:400][106]LogInterchangeEngine: [Éxito] Se ha completado la importación
+[2025.07.30-23.55.01:272][270]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.07.30-23.55.01:295][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-23.55.01:316][270]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.07.30-23.55.01:317][270]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.07.30-23.55.01:320][270]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.07.30-23.55.01:332][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011403s)
+[2025.07.30-23.55.01:332][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.012674s)
+[2025.07.30-23.55.01:360][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.30-23.55.01:364][270]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.07.30-23.55.01:367][270]LogPlayLevel: PIE: World Init took: (0.003432s)
+[2025.07.30-23.55.01:369][270]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.30-23.55.01:369][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-23.55.01:369][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-23.55.01:370][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-23.55.01:370][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-23.55.01:370][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-23.55.01:370][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-23.55.01:370][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-23.55.01:370][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-23.55.01:370][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-23.55.01:370][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-23.55.01:370][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-23.55.01:373][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-23.55.01:416][270]LogAudioMixer: Display: Using Audio Hardware Device 1 - LG TV (AMD High Definition Audio Device)
+[2025.07.30-23.55.01:416][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-23.55.01:416][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-23.55.01:416][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-23.55.01:417][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.30-23.55.01:417][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.30-23.55.01:420][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.30-23.55.01:420][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.30-23.55.01:420][270]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.30-23.55.01:420][270]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2025.07.30-23.55.01:420][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.30-23.55.01:436][270]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-23.55.01:437][270]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2025.07.31-01.55.01
+[2025.07.30-23.55.01:438][270]LogWorld: Bringing up level for play took: 0.001761
+[2025.07.30-23.55.01:441][270]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.07.30-23.55.01:491][270]PIE: El servidor ha iniciado sesión
+[2025.07.30-23.55.01:495][270]PIE: Tiempo de inicio total de la reproducción en el editor de 0,211 segundos.
+[2025.07.30-23.55.03:281][273]LogPSOHitching: Encountered 250 PSO creation hitches so far (121 graphics, 129 compute). 0 of them were precached.
+[2025.07.30-23.55.16:103][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-23.55.16:103][809]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.07.30-23.55.16:105][809]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.55.16:106][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.55.16:109][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-23.55.16:112][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.55.16:137][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-23.55.16:138][809]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.30-23.55.16:140][809]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.07.30-23.55.16:143][809]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.07.30-23.55.16:158][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.30-23.55.16:186][810]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.07.30-23.55.18:204][959]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.55.24:535][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.56.59:105][841]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2025.07.30-23.56.59:199][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.07.30-23.57.06:368][948]LogSlate: Window 'SM_Template_Map_Floor' being destroyed
+[2025.07.30-23.57.06:469][948]LogSlate: Window 'SM_Template_Map_Floor' being destroyed
+[2025.07.30-23.57.06:560][948]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.57.06:560][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.57.06:679][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.07.30-23.57.56:820][887]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.07.30-23.57.56:827][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-23.57.56:827][887]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.07.30-23.57.56:831][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003867s)
+[2025.07.30-23.57.56:831][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003923s)
+[2025.07.30-23.57.56:857][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.30-23.57.56:858][887]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.07.30-23.57.56:861][887]LogPlayLevel: PIE: World Init took: (0.002622s)
+[2025.07.30-23.57.56:862][887]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-23.57.56:862][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-23.57.56:862][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-23.57.56:862][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-23.57.56:862][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-23.57.56:862][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-23.57.56:865][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-23.57.56:901][887]LogAudioMixer: Display: Using Audio Hardware Device 1 - LG TV (AMD High Definition Audio Device)
+[2025.07.30-23.57.56:901][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-23.57.56:901][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-23.57.56:901][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-23.57.56:902][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.07.30-23.57.56:902][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.07.30-23.57.56:906][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.07.30-23.57.56:906][887]LogInit: FAudioDevice initialized with ID 3.
+[2025.07.30-23.57.56:906][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.07.30-23.57.56:906][887]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled_1'.
+[2025.07.30-23.57.56:906][887]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.30-23.57.56:911][887]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-23.57.56:912][887]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2025.07.31-01.57.56
+[2025.07.30-23.57.56:912][887]LogWorld: Bringing up level for play took: 0.001038
+[2025.07.30-23.57.56:915][887]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.07.30-23.57.56:922][887]PIE: El servidor ha iniciado sesión
+[2025.07.30-23.57.56:925][887]PIE: Tiempo de inicio total de la reproducción en el editor de 0,099 segundos.
+[2025.07.30-23.58.02:899][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5451.498047
+[2025.07.30-23.58.03:072][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.30-23.58.03:072][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5451.655273, Update Interval: 317.346100
+[2025.07.30-23.58.16:191][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-23.58.16:191][997]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.07.30-23.58.16:191][997]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.58.16:191][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.58.16:193][997]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-23.58.16:197][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.58.16:222][997]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-23.58.16:222][997]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.30-23.58.16:222][997]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.07.30-23.58.16:224][997]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.07.30-23.58.16:232][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.07.30-23.58.16:317][998]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.07.30-23.58.20:185][293]LogDebuggerCommands: Repeating last play command: Visor seleccionado
+[2025.07.30-23.58.20:193][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.30-23.58.20:193][293]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2025.07.30-23.58.20:199][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006296s)
+[2025.07.30-23.58.20:199][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006363s)
+[2025.07.30-23.58.20:225][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.30-23.58.20:226][293]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.07.30-23.58.20:229][293]LogPlayLevel: PIE: World Init took: (0.002953s)
+[2025.07.30-23.58.20:231][293]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.30-23.58.20:231][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.30-23.58.20:232][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.30-23.58.20:232][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.30-23.58.20:232][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.30-23.58.20:232][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.30-23.58.20:235][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.30-23.58.20:271][293]LogAudioMixer: Display: Using Audio Hardware Device 1 - LG TV (AMD High Definition Audio Device)
+[2025.07.30-23.58.20:272][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.30-23.58.20:272][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.30-23.58.20:272][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.30-23.58.20:272][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.07.30-23.58.20:272][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.07.30-23.58.20:275][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.07.30-23.58.20:275][293]LogInit: FAudioDevice initialized with ID 4.
+[2025.07.30-23.58.20:275][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.07.30-23.58.20:275][293]LogAudio: Display: Audio Device (ID: 4) registered with world 'Untitled_1'.
+[2025.07.30-23.58.20:275][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.30-23.58.20:280][293]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.07.30-23.58.20:281][293]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2025.07.31-01.58.20
+[2025.07.30-23.58.20:281][293]LogWorld: Bringing up level for play took: 0.001065
+[2025.07.30-23.58.20:284][293]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.07.30-23.58.20:296][293]PIE: El servidor ha iniciado sesión
+[2025.07.30-23.58.20:300][293]PIE: Tiempo de inicio total de la reproducción en el editor de 0,107 segundos.
+[2025.07.30-23.58.27:732][317]Cmd: SELECT NONE
+[2025.07.30-23.58.57:591][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-23.58.57:591][461]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2025.07.30-23.58.57:591][461]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.30-23.58.57:591][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.58.58:220][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.30-23.58.58:225][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.30-23.58.58:247][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.30-23.58.58:247][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.07.30-23.58.58:247][461]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.07.30-23.58.58:250][461]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.07.30-23.58.58:259][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.07.30-23.58.58:869][462]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.07.30-23.59.07:321][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.30-23.59.39:017][674]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.31-00.00.42:860][690]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
