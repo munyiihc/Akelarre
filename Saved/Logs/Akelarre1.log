@@ -2621,3 +2621,52 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.31-00.03.37:883][853]AssetCheck: /Game/LevelPrototyping/Textures/HdrOutdoorFieldBaseballDayClear001_preview1 Validando recurso
 [2025.07.31-00.03.37:905][853]LogAutomationController: Ignoring very large delta of 3.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.07.31-00.03.37:907][853]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.31-00.04.14:121][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5822.720703
+[2025.07.31-00.04.15:121][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-00.04.15:121][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5823.387695, Update Interval: 307.784058
+[2025.07.31-00.09.57:835][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6166.437500
+[2025.07.31-00.09.58:835][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.31-00.09.58:835][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6167.103027, Update Interval: 319.217499
+[2025.07.31-00.14.09:152][612]LogStreaming: Display: FlushAsyncLoading(831): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-00.14.09:178][612]LogInterchangeEngine: [Pendiente] Importando
+[2025.07.31-00.14.09:178][612]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mar_t/OneDrive/Escritorio/2.jpg]
+[2025.07.31-00.14.09:226][612]LogAutomationController: Ignoring very large delta of 3.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.31-00.14.09:248][614]LogStreaming: Display: FlushAsyncLoading(832): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.31-00.14.09:249][615]LogInterchangeImport: JPEG file [C:/Users/mar_t/OneDrive/Escritorio/2.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.31-00.14.09:277][616]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mar_t/OneDrive/Escritorio/2.jpg]
+[2025.07.31-00.14.09:278][616]LogInterchangeEngine: [Pendiente] Importando - Operation completed.
+[2025.07.31-00.14.09:278][616]LogInterchangeEngine: [Éxito] Se ha completado la importación
+[2025.07.31-00.14.13:218][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.31-00.14.15:193][901]LogSlate: Window 'Guardar contenido' being destroyed
+[2025.07.31-00.14.15:244][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.31-00.14.15:308][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/Maps/Templates/Untitled" FILE="../../../Engine/Content/Maps/Templates/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.07.31-00.14.15:380][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.31-00.14.15:403][901]LogSavePackage: Moving output files for package: /Engine/Maps/Templates/Untitled
+[2025.07.31-00.14.15:403][901]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/Untitled941ACFCB42A8FB77DF93788A69C84480.tmp' to '../../../Engine/Content/Maps/Templates/Untitled.umap'
+[2025.07.31-00.14.15:424][901]LogFileHelpers: Saving map 'Untitled' took 0.117
+[2025.07.31-00.14.15:425][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2] ([1] browsable assets)...
+[2025.07.31-00.14.15:429][901]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2.2]
+[2025.07.31-00.14.15:429][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/2]
+[2025.07.31-00.14.15:429][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/2.uasset" SILENT=true
+[2025.07.31-00.14.15:443][901]LogSavePackage: Moving output files for package: /Game/2
+[2025.07.31-00.14.15:443][901]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/20FB3A4BD47B8762620E637BE0770C86E.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/2.uasset'
+[2025.07.31-00.14.15:446][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2_Mat] ([1] browsable assets)...
+[2025.07.31-00.14.15:562][901]OBJ SavePackage:     Rendered thumbnail for [Material /Game/2_Mat.2_Mat]
+[2025.07.31-00.14.15:562][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/2_Mat]
+[2025.07.31-00.14.15:562][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2_Mat" FILE="../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/2_Mat.uasset" SILENT=true
+[2025.07.31-00.14.15:576][901]LogSavePackage: Moving output files for package: /Game/2_Mat
+[2025.07.31-00.14.15:576][901]LogSavePackage: Moving '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/2_MatC410146242B4D75CC179FF9F8D85AE6E.tmp' to '../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Content/2_Mat.uasset'
+[2025.07.31-00.14.15:593][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.511 ms (total: 4.27 sec)
+[2025.07.31-00.14.15:657][901]LogContentValidation: Display: Starting to validate 3 assets
+[2025.07.31-00.14.15:657][901]LogContentValidation: Enabled validators:
+[2025.07.31-00.14.15:657][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.31-00.14.15:657][901]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.31-00.14.15:657][901]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.31-00.14.15:657][901]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.31-00.14.15:657][901]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.31-00.14.15:657][901]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.31-00.14.15:657][901]AssetCheck: /Engine/Maps/Templates/Untitled Validando recurso
+[2025.07.31-00.14.15:657][901]AssetCheck: /Game/2 Validando recurso
+[2025.07.31-00.14.15:657][901]AssetCheck: /Game/2_Mat Validando recurso
+[2025.07.31-00.14.15:726][901]LogAutomationController: Ignoring very large delta of 2.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.07.31-00.14.15:728][901]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mar_t/OneDrive/Documentos/Unreal Projects/Akelarre1/Saved/SourceControl/UncontrolledChangelists.json
